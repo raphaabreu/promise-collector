@@ -1,7 +1,7 @@
 {
   "name": "@raphaabreu/promise-collector",
   "version": "1.0.0",
-  "description": "Message batcher",
+  "description": "Promise Collector is a utility class for managing and tracking a collection of promises",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
